@@ -1,8 +1,9 @@
-{
+﻿{
   "Author": "Azure Gem",
   "Name": "I Hate Caps Lock",
   "Punchline": "Don't you hate CAPS LOCK so much?",
   "Description": "SORRY CAPS\nRemove caps lock when pressing any of the configured keys.",
   "Tags": [ "caps", "lock", "key" ],
-  "CategoryTags": [ "utility" ]
+  "CategoryTags": [ "utility" ],
+  "RepoURL": "https://github.com/GemPlugins/IHateCapsLock"
 }
